@@ -1,0 +1,13 @@
+/* it sets the height of the main 80vh means a minimum height of 80% of the viewport height */
+main
+{
+  min-height: 80vh;
+}
+h3
+{
+  padding: 1rem 0;
+}
+.rating span
+{
+  margin: 0.1rem;
+}
